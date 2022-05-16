@@ -10,8 +10,9 @@
   No exemplo do site da Assembleia Legislativa (esquerda),no canto superior direito fornece a alternativa de acesso a pessoas que necessitam de 
   maiores letras, fala, símbolos. No caso do exemplo a direita, não há acesso referentes.
 
+   <h3 align="center"> Adaptable </h3>
   
-
+   <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Google.png" width="395" /> 
 
 
 
