@@ -7,7 +7,8 @@
   <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Imagem2.jpg" width="395" /> 
     
 </p>
-  No exemplo do site da Assembleia Legislativa (esquerda),no canto superior direito fornece a alternativa de acesso a pessoas que necessitam de maiores letras, fala, símbolos. No caso do exemplo a direita, não há acesso referentes.
+  No exemplo do site da Assembleia Legislativa (esquerda),no canto superior direito fornece a alternativa de acesso a pessoas que necessitam de 
+  maiores letras, fala, símbolos. No caso do exemplo a direita, não há acesso referentes.
 
 
 
