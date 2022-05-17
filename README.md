@@ -12,7 +12,7 @@
 
    <h3 align="center"> Adaptable </h3>
   
-   <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Google.png" width="395" /> 
+  <p align="center"> <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Google.png" width="450" /> 
 
 
 
