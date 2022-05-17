@@ -18,7 +18,7 @@
   
   <p align="center"> <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Google.png" width="580" /> 
 
- <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura.
+ <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura. As instruções fornecidas para compreensão e operação do conteúdo não se baseiam apenas nas características sensoriais dos componentes, como forma, cor, tamanho, localização visual, orientação ou som.
 
 
 
