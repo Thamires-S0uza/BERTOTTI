@@ -1,7 +1,11 @@
 <h1 align="center"> IHC </h1>
-<h2 align="center"> Exemplos das Eurísticas apresentadas em Aula 
-<h3 align="center"> Perceivable </h3>
+<h2 align="center"> Exemplos das Eurísticas apresentadas em Aula </p>
 
+<a href="https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded"> </p>
+      WCAG
+  
+<h3 align="center"> Perceivable </h3>
+  
   <p float="left">
   <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Imagem1.jpg" width="395" /> 
   <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Imagem2.jpg" width="395" /> 
