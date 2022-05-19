@@ -1,5 +1,5 @@
 <h1 align="center"> IHC </h1>
-<h2 align="center"> Exemplos das Eurísticas apresentadas em Aula </p>
+<h2 align="center"> Exemplos das Heurísticas apresentadas em Aula </p>
 
 <a href="https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded"> </p>
       WCAG
