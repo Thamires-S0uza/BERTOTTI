@@ -21,7 +21,7 @@
   <img src="https://github.com/dantesjc/BERTOTTI-IHC/blob/main/carrefour.jpg" width="410" />
   
 
- <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura. As instruções fornecidas para compreensão e operação do conteúdo não se baseiam apenas nas características sensoriais dos componentes, como forma, cor, tamanho, localização visual, orientação ou som.Diferente da imagem a direita, que possui um conteúdo "sujo".
+ <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura. As instruções fornecidas para compreensão e operação do conteúdo não se baseiam apenas nas características sensoriais dos componentes, como forma, cor, tamanho, localização visual, orientação ou som.Diferente da imagem a direita,do site do carrefour, que possui um conteúdo "sujo".
        
 <h3 align="center"> Distinguishable </h3>
 
