@@ -15,10 +15,13 @@
   maiores letras, fala, símbolos. No caso do exemplo a direita, não há acesso referentes.
 
    <h3 align="center"> Adaptable </h3>
+   
+  <p float="left">
+  <img src="https://github.com/dantesjc/BERTOTTI-IHC/blob/main/Google.png" width="395" /> 
+  <img src="https://github.com/dantesjc/BERTOTTI-IHC/blob/main/carrefour.jpg" width="395" /> 
   
-  <p align="center"> <img src="https://github.com/dantesjc/BERTOTTI/blob/main/Google.png" width="580" /> 
 
- <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura. As instruções fornecidas para compreensão e operação do conteúdo não se baseiam apenas nas características sensoriais dos componentes, como forma, cor, tamanho, localização visual, orientação ou som.
+ <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura. As instruções fornecidas para compreensão e operação do conteúdo não se baseiam apenas nas características sensoriais dos componentes, como forma, cor, tamanho, localização visual, orientação ou som.Diferente da imagem a direita, que possui um conteúdo "sujo".
        
 <h3 align="center"> Distinguishable </h3>
 
