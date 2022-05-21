@@ -29,7 +29,14 @@
  <img src="https://github.com/dantesjc/BERTOTTI/blob/main/tres.cor.jpg" width="410" />
  <img src="https://github.com/dantesjc/BERTOTTI/blob/main/tres.erro.jpg" width="410" />
       
- <p align="center"> O conteúdo pode ser apresentado com a perda de informação ou funcionalidade, na necessidade de rolagem em duas dimensões. Na segunda imagem, perde-se a informação de leitura com uma pequena rolagem.     
+ <p align="center"> O conteúdo pode ser apresentado com a perda de informação ou funcionalidade, na necessidade de rolagem em duas dimensões. Na segunda imagem, perde-se a informação de leitura com uma pequena rolagem.
+       
+<h3 align="center"> Operable </h3>
+
+<p align="center">
+<img src="https://github.com/dantesjc/BERTOTTI/blob/main/app.santander.jpeg" width="250" />
+
+<p align="center"> Os usuários são avisados sobre a duração de qualquer inatividade do usuário que possa causar perda de dados, a menos que os dados sejam preservados por mais de 20 horas quando o usuário não realizar nenhuma ação.
 
 
 
