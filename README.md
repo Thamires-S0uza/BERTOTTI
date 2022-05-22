@@ -37,6 +37,8 @@
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/app.santander.jpeg" width="250" />
 
 <p align="center"> Os usuários são avisados sobre a duração de qualquer inatividade do usuário que possa causar perda de dados, a menos que os dados sejam preservados por mais de 20 horas quando o usuário não realizar nenhuma ação.
+      
+<h3 align="center"> Navigable </h3>      
 
 
 
