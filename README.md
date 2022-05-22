@@ -29,7 +29,7 @@
  <img src="https://github.com/dantesjc/BERTOTTI/blob/main/tres.cor.jpg" width="410" />
  <img src="https://github.com/dantesjc/BERTOTTI/blob/main/tres.erro.jpg" width="410" />
       
- <p align="center"> O conteúdo pode ser apresentado com a perda de informação ou funcionalidade, na necessidade de rolagem em duas dimensões. Na segunda imagem, perde-se a informação de leitura com uma pequena rolagem.
+ <p align="center"> O conteúdo apresentado com a perda de informação ou funcionalidade, na necessidade de rolagem em duas dimensões. Na segunda imagem, perde-se a informação de leitura com uma pequena rolagem.
        
 <h3 align="center"> Operable </h3>
 
