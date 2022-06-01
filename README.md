@@ -36,7 +36,7 @@
 <p align="center">
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/app.santander.jpeg" width="250" />
 
-<p align="center"> Os usuários são avisados sobre a duração de qualquer inatividade do usuário que possa causar perda de dados, a menos que os dados sejam preservados por mais de 20 horas quando o usuário não realizar nenhuma ação.
+<p align="center"> Dando exemplo do aplicativo do Banco Santander, os usuários são avisados sobre a duração de qualquer inatividade do usuário que possa causar perda de dados, a menos que os dados sejam preservados por mais de 20 horas quando o usuário não realizar nenhuma ação.
       
 <h3 align="center"> Navigable </h3>      
 
@@ -45,6 +45,12 @@
 
 <p align="center"> Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.      
 
+<h3 align="center"> Bypass Blocks </h3> 
+
+<p align="center">
+<img src="https://github.com/dantesjc/BERTOTTI/blob/main/tecsus..jpg" width="530" />
+
+<p align="center"> No subtópico de "navigable", as páginas da Web têm títulos que descrevem o tópico ou propósito. No caso, uma empresa que realiza análises consumíveis em água, gás, e energia. 
 
 
 
