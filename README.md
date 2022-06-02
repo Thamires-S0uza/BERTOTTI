@@ -13,6 +13,7 @@
 </p>
   <p align="center"> No exemplo do site da Assembleia Legislativa (esquerda),no canto superior direito fornece a alternativa de acesso a pessoas que necessitam de 
   maiores letras, fala, símbolos. No caso do exemplo a direita, não há acesso referentes.
+<hr>      
 
    <h3 align="center"> Adaptable </h3>
    
@@ -22,6 +23,7 @@
   
 
  <p align="center"> Conteúdo com layout simples, sem perder sua funcionalidade e estrutura. As instruções fornecidas para compreensão e operação do conteúdo não se baseiam apenas nas características sensoriais dos componentes, como forma, cor, tamanho, localização visual, orientação ou som.Diferente da imagem a direita,do site do carrefour, que possui um conteúdo "sujo".
+<hr>       
        
 <h3 align="center"> Distinguishable </h3>
 
@@ -30,6 +32,7 @@
  <img src="https://github.com/dantesjc/BERTOTTI/blob/main/tres.erro.jpg" width="410" />
       
  <p align="center"> O conteúdo apresentado com a perda de informação ou funcionalidade, na necessidade de rolagem em duas dimensões. Na segunda imagem, perde-se a informação de leitura com uma pequena rolagem.
+<hr>       
        
 <h3 align="center"> Operable </h3>
 
@@ -37,20 +40,23 @@
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/app.santander.jpeg" width="250" />
 
 <p align="center"> Dando exemplo do aplicativo do Banco Santander, os usuários são avisados sobre a duração de qualquer inatividade do usuário que possa causar perda de dados, a menos que os dados sejam preservados por mais de 20 horas quando o usuário não realizar nenhuma ação.
+<hr>      
       
 <h3 align="center"> Navigable </h3>      
 
 <p align="center">
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/imob.site.jpg" width="530" />
 
-<p align="center"> Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.      
+<p align="center"> Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.
+<hr>      
 
 <h3 align="center"> Bypass Blocks </h3> 
 
 <p align="center">
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/tecsus..jpg" width="530" />
 
-<p align="center"> No subtópico de "navigable", as páginas da Web têm títulos que descrevem o tópico ou propósito. No caso, uma empresa que realiza análises consumíveis em água, gás, e energia. 
+<p align="center"> No subtópico de "navigable", as páginas da Web têm títulos que descrevem o tópico ou propósito. No caso, uma empresa que realiza análises consumíveis em água, gás, e energia.
+<hr>      
 
-
+<h3 align="center"> Exemplos em meu API </h3> 
 
