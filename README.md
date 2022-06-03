@@ -60,3 +60,8 @@
 
 <h3 align="center"> Exemplos em meu API </h3> 
 
+<p align="center">
+<img src="https://github.com/dantesjc/BERTOTTI/blob/main/print.tela.api.jpeg" width="530" />
+      
+ <p align="center"> Dando um exemplo da heurística referente ao "2.4 Navigable", fornece maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.Nesse caso, o digitador tem acesso a escolha do mês referente, tipo do arquivo (PDF, ou imagem JPEG), opção de salvar, excluir o que foi digitado e/ou voltar a página anterior.     
+
