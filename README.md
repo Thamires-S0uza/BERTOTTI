@@ -73,7 +73,7 @@
 <p align="center">
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/gas.verde.jpeg" width="530" /> 
 
-<p align="center"> Nessas três páginas, dando exempo da heurísticas referente ao "Perceivable - As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber". Cada página, dando menção as contas de água (azul), energia(rosa) e gás(verde), possuem uma cor específica para auxiliar na assimilação de qual tipo de conta o digitador está.
+<p align="center"> Nessas três páginas, dando exempo da heurísticas referente ao "Perceivable - As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber". Cada página, dando menção as contas de água (azul), energia (rosa) e gás (verde), possuem uma cor específica para auxiliar na assimilação de qual tipo de conta o digitador está.
       
             
       
