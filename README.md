@@ -63,5 +63,18 @@
 <p align="center">
 <img src="https://github.com/dantesjc/BERTOTTI/blob/main/print.tela.api.jpeg" width="530" />
       
- <p align="center"> Dando um exemplo da heurística referente ao "2.4 Navigable", fornece maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.Nesse caso, o digitador tem acesso a escolha do mês referente, tipo do arquivo (PDF, ou imagem JPEG), opção de salvar, excluir o que foi digitado e/ou voltar a página anterior.     
+ <p align="center"> Dando um exemplo da heurística referente ao "2.4 Navigable", fornece maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.Nesse caso, o digitador tem acesso a escolha do mês referente, tipo do arquivo (PDF, ou imagem JPEG), opção de salvar, excluir o que foi digitado e/ou voltar a página anterior.   
+<hr>
+
+<p align="center">
+<img src="https://github.com/dantesjc/BERTOTTI/blob/main/agua.azul.jpeg" width="530" />
+<p align="center">
+<img src="https://github.com/dantesjc/BERTOTTI/blob/main/energia.rosa.jpeg" width="530" /> 
+<p align="center">
+<img src="https://github.com/dantesjc/BERTOTTI/blob/main/gas.verde.jpeg" width="530" /> 
+
+<p align="center"> Nessas três páginas, dando exempo da heurísticas referente ao "Perceivable - As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber". Cada página, dando menção as contas de água, luz e gás, possuem uma cor específica para auxiliar na assimilação de qual tipo de conta o digitador está.
+      
+            
+      
 
