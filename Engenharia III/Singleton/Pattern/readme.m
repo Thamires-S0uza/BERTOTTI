@@ -1,6 +1,8 @@
-package pattern;
 
-public class App {
+
+         package pattern;
+
+       public class App {
 
 	public static void main(String[] args) {
         BancoDados primeiroBanco = BancoDados.getInstance();
@@ -10,4 +12,4 @@ public class App {
 
 	}
 
-}
+   }
