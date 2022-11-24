@@ -1,6 +1,5 @@
 pagamento.java;
 
-
 package pattern;
 
 public class Pagamento {
