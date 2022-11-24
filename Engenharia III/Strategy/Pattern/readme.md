@@ -1,8 +1,10 @@
-pagamento.java;
+    pagamento.java;
 
-package pattern;
+    package pattern;
 
-public class Pagamento {
+    public class Pagamento {
+
+     
 
      private Pagar pagar ;
 
@@ -16,32 +18,33 @@ public class Pagamento {
       }
 
 
-}
+    }
 
-      ----------------------------------------------------------------
+   </p>
 
-  pagarDebito.java
+    pagarDebito.java
   
-  package pattern
+    package pattern
 
       public interface Pagar {
 
          public void pagarConta();
 
      } 
-     --------------------------------------------------------------------
-     
+   <hr>      
+      
      package pattern;
 
-public class pagarDebito implements Pagar{
+    public class pagarDebito implements Pagar{
 
         public void pagarConta() {
              System.out.println("Pagou conta no débito.");
         }
 
 
-----------------------------------------------------------------------------
-pagarCredito.java
+   <hr>      
+       
+    pagarCredito.java
 
     package pattern;
 
@@ -52,14 +55,14 @@ pagarCredito.java
 
       }
 
-} 
+    } 
 
 
-}
+    }
 
-----------------------------------------------------------------------
+   <hr>      
 
-pagarPayPal.java
+    pagarPayPal.java
 
     package pattern;
 
@@ -71,5 +74,5 @@ pagarPayPal.java
 
      }
 
-}
+    }
 
